@@ -9,6 +9,10 @@ My professional career since 2015 has been focused on building the FoodBoss prod
 - clientside logic for sorting results as real-time updates to our data arrive
 - enabling ads on the platform, both display and in-line Sponsored Results
 
+### My interests
+- **Natural languages** - I have studied French, German, Portuguese, Spanish, Italian, Russian, and Hebrew. About half formally, half through Duolingo and online resources.
+- **The next version of the internet** - I get a grim pleasure from hearing people express their displeasure about the contemporary state of the internet. The hope and promise of some new way forward has for years been my main motivation for following the blockchain space, and Urbit.
+
 <!--
 **liamhession/liamhession** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
