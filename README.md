@@ -11,7 +11,9 @@ My professional career since 2015 has been focused on building the FoodBoss prod
 
 ### My interests
 - **Natural languages** - I have studied French, German, Portuguese, Spanish, Italian, Russian, and Hebrew. About half formally, half through Duolingo and online resources.
-- **The next version of the internet** - I get a grim pleasure from hearing people express their displeasure about the contemporary state of the internet. The hope and promise of some new way forward has for years been my main motivation for following the blockchain space, and Urbit.
+- **The next version of the internet** - I enjoy reading various jeremiads about the woeful contemporary state of the internet. The hope and promise of some new way forward has for years been my main motivation for following the blockchain space, and Urbit.
+
+Adding more in pieces...
 
 <!--
 **liamhession/liamhession** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
