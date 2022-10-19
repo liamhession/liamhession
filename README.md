@@ -11,6 +11,7 @@ My professional career since 2015 has been focused on building the FoodBoss prod
 
 ### My interests
 - **Natural languages** - I have studied French, German, Portuguese, Spanish, Italian, Russian, and Hebrew. About half formally, half through Duolingo and online resources.
+- **Rust** - After years of dealing with anything-can-go-wrong-at-runtime JavaScript, i am seeking liberation from those headaches by learning Rust development and seeking a job writing Rust. Have been exploring and learning in my free time since early 2021. My methods for learning include reading The Book, tooling around with a microcontroller as per [The Embedded Rust Book](https://docs.rust-embedded.org/book/), and doing Project Euler problems in Rust (see my solutions [here](https://github.com/liamhession/project-euler)).
 - **The next version of the internet** - I enjoy reading various jeremiads about the woeful contemporary state of the internet. The hope and promise of some new way forward has for years been my main motivation for following the blockchain space, and Urbit.
 
 Adding more in pieces...
