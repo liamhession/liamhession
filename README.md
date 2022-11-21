@@ -1,4 +1,4 @@
-### TL;DReadme:
+### TL;DReadme
 I have a large variety of interests, and am putting great effort towards developing my ability to pursue a selection of those productively
 
 ### My past work
